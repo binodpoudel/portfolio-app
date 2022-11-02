@@ -16,7 +16,7 @@ const Footer = () => {
         <span>footandshadows@gmail.com</span>
         <span>+4917676688107</span>
         <div className="f-icons">
-        <a href='https://github.com/binodpoudel' target='_blank' rel='noreferrer'>
+        <a href='https://github.com/binodpoudel/portfolio-app' target='_blank' rel='noreferrer'>
            <Github color="white" size={"3rem"} />
           </a>
           <a href='https://slack.com' target='_blank' rel='noreferrer'>
