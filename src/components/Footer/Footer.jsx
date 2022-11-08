@@ -14,7 +14,7 @@ const Footer = () => {
       <img src={Wave} alt="" style={{ width: "100%", height: "350px" }} />
       <div className="f-content">
         <span>footandshadows@gmail.com</span>
-        <span>+4917676688107</span>
+        <span>+49(0)1796723519</span>
         <div className="f-icons">
         <a href='https://github.com/binodpoudel/portfolio-app' target='_blank' rel='noreferrer'>
            <Github color="white" size={"3rem"} />

@@ -19,9 +19,9 @@ const Works = () => {
         <div className="awesome">
           {/* dark Mode */}
           <span style={{ color: darkMode ? "white" : "" }}>
-            One Year Web Developement 
+            I did a one year web development 
           </span>
-          <span>Course in Leipzig, Digital Career Institute</span>
+          <span>Course at the Digital Career Institute in Leipzig, Germany.</span>
           <span className='about' style={{ color: "orange", fontSize: "0.8rem"  }}>
             Frontend Developer :- HTML, CSS, JavaScript, React and React Hooks, React Router, Redux and Context API, BootStraps, Material UI, GitHub team workflow. 
                 <br />

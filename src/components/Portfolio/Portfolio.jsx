@@ -3,8 +3,9 @@ import "./Portfolio.css";
 import { Swiper, SwiperSlide } from "swiper/react"
 import "swiper/css";
 import Sidebar from "../../img/p3.png";
-import Ecommerce from "../../img/online8.png";
+import Ecommerce from "../../img/E-commerce.png";
 import Online from "../../img/online12.png";
+import Pizza from "../../img/pizza.png";
 import Eco2 from "../../img/online2.png";
 import Travel from "../../img/travel.png";
 import { themeContext } from "../../Context";
@@ -36,6 +37,9 @@ const Portfolio = () => {
         </SwiperSlide>
         <SwiperSlide>
           <img src={Online} alt="" />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src={Pizza} alt="" />
         </SwiperSlide>
         <SwiperSlide>
           <img src={Travel} alt="" />

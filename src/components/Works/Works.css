@@ -17,13 +17,13 @@
 
 
 .awesome > :nth-child(1) {
-  color: var(--black);
-  font-size: 1.5rem;
+  color: var(--dark);
+  font-size: 1.1rem;
   font-weight: bold;
 }
 .awesome > :nth-child(2) {
-  color: var(--orange);
-  font-size: 1.5rem;
+  color: var(--yellow);
+  font-size: 1.1rem;
   font-weight: bold;
 }
 .awesome > :nth-child(3) {

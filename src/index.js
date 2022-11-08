@@ -8,7 +8,7 @@ ReactDOM.render(
   <ThemeProvider>
   <HashRouter>
     <App />
-  </HashRouter>  
+  </HashRouter>,  
   </ThemeProvider>,
   document.getElementById('root')
 );
