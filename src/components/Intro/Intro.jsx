@@ -35,11 +35,11 @@ const Intro = () => {
           <span className="about">
            I am from the Himalayan country of Nepal. 
             <br />
-           I am a junior full stack web developer located in Leipzig, Germany. 
+           I am a full stack web developer located in Berlin, Germany. 
             <br />
            And I love to have fun doing coding!<br /> 
            Let's make something cool together!<br />
-           Now seeking a job as a junior Front-end developer in Germany.
+           Now seeking a job as a Front-end developer in Germany.
           </span>
           <span className="hire">
             Do you like my work?
@@ -88,7 +88,7 @@ const Intro = () => {
           transition={transition}
           className="floating-div"
         >
-          <FloatinDiv img={crown} text1="Junior Web" text2="Developer" />
+          <FloatinDiv img={crown} text1="Full-Stack Web" text2="Developer" />
         </motion.div>
 
         {/* animation */}
