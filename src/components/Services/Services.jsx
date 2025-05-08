@@ -6,7 +6,7 @@ import Glasses from "../../img/glasses.png";
 import Humble from "../../img/humble.png";
 import { themeContext } from "../../Context";
 import { motion } from "framer-motion";
-import Resume from './binod-resume.pdf';
+import Resume from './resume.pdf';
 
 
 const Services = () => {
@@ -58,8 +58,8 @@ const Services = () => {
           <Card
             emoji={Glasses}
             heading={" Frontend Developer"}
-            detail={"Html, CSS, JavaScript, React, Hooks, Redux, BootStraps, Material UI" }
-          />
+            detail={"Html5, CSS3, JavaScript (ES6+),  React Native, React, Hooks, Redux, BootStraps, Material UI,
+                Tailwind CSS, Context API, React Router, UI/UX Design, Git Hub Team-Workﬂow,Agile Methodologies. " } />
 
         </motion.div>
 
