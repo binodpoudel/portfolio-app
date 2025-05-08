@@ -23,12 +23,12 @@ const Works = () => {
           </span>
           <span>Course at the Digital Career Institute in Leipzig, Germany.</span>
           <span className='about' style={{ color: "orange", fontSize: "0.8rem"  }}>
-            Frontend Developer :- HTML, CSS, JavaScript, React and React Hooks, React Router, Redux and Context API, BootStraps, Material UI, GitHub team workflow. 
+            Frontend Developer :- HTML, CSS, JavaScript, React Native, React and React Hooks, React Router, Redux and Context API, BootStraps, Material UI, GitHub team workflow. 
                 <br />
                 <br />
-            Backend Developer :- Node.js, Express.js, JWT and Authentication methods, Rest APIs.
+            Backend Developer :- Node.js, Express.js, PHP, Laravel, Python, Pandas, NumPy, JWT and Authentication methods, Rest APIs.
             <br />
-            Database:- MongoDB, Mongoose.
+            Database:- MongoDB, Mongoose, SQL, NoSQL.
           </span>
           <div
             className="blur s-blur1"
